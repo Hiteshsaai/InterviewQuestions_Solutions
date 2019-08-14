@@ -11,7 +11,7 @@ arr = [3, 5,-4, 8, 11, 1, -1, 6]
 t = 10
 
 
-# Both the solution works on o(n) time  || o(n) Space
+# Both the solution works on O(n) time  || O(n) Space
 class Solution:
      def twoNumberSum(self, array, targetSum):
          result = []

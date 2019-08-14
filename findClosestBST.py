@@ -1,10 +1,9 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 Created on Mon Aug 12 22:49:05 2019
 
 @author: hitesh
 """
+
 
 import math 
 
@@ -20,6 +19,9 @@ import math
 
 # ------ Sample Output --------
 #    13
+
+# Average time complexity is O(log n) || Average Space complexity is O(log n)
+# Worst time complexity is O(n) || Worst Space complexity is O(n)
 
 class Solution():
      def findClosestValueInBst(self, tree, target):
